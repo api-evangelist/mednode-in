@@ -1,4 +1,4 @@
-# mednode-in
+# MedNode AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,166 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mednode-in is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mednode.in/
+MedNode AI provides an AI‑powered patient health vault platform in India, enabling users to upload prescriptions, lab reports, and discharge summaries to receive a rapid 30‑second clinical brief for doctors. The service emphasizes DPDP‑aligned security, supports WhatsApp uploads, and offers a free starter tier. It aims to streamline patient data management and improve clinical decision‑making through advanced AI analytics.
+
+**Areas:** Company · AI · Healthcare · PatientData · India
+
+## MedNode AI on APIs.io
+
+Everything profiled for MedNode AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mednode-in/](https://apis.io/providers/mednode-in/)** — or go straight to one of the APIs or properties below.
+
+### APIs (40)
+
+- [MedNode AI Account API](https://apis.io/apis/mednode-in/mednode-in-account-api/) — The Account API from MedNode AI — 3 operation(s) for account.
+- [MedNode AI Admin API](https://apis.io/apis/mednode-in/mednode-in-admin-api/) — The Admin API from MedNode AI — 47 operation(s) for admin.
+- [MedNode AI Appointments API](https://apis.io/apis/mednode-in/mednode-in-appointments-api/) — The Appointments API from MedNode AI — 3 operation(s) for appointments.
+- [MedNode AI Audit API](https://apis.io/apis/mednode-in/mednode-in-audit-api/) — The Audit API from MedNode AI — 1 operation(s) for audit.
+- [MedNode AI Auth API](https://apis.io/apis/mednode-in/mednode-in-auth-api/) — The Auth API from MedNode AI — 9 operation(s) for auth.
+- [MedNode AI Ccd API](https://apis.io/apis/mednode-in/mednode-in-ccd-api/) — The Ccd API from MedNode AI — 1 operation(s) for ccd.
+- [MedNode AI Chat API](https://apis.io/apis/mednode-in/mednode-in-chat-api/) — The Chat API from MedNode AI — 2 operation(s) for chat.
+- [MedNode AI Comments API](https://apis.io/apis/mednode-in/mednode-in-comments-api/) — The Comments API from MedNode AI — 1 operation(s) for comments.
+- [MedNode AI Config API](https://apis.io/apis/mednode-in/mednode-in-config-api/) — The Config API from MedNode AI — 1 operation(s) for config.
+- [MedNode AI Doctor API](https://apis.io/apis/mednode-in/mednode-in-doctor-api/) — The Doctor API from MedNode AI — 85 operation(s) for doctor.
+- [MedNode AI Emergency API](https://apis.io/apis/mednode-in/mednode-in-emergency-api/) — The Emergency API from MedNode AI — 1 operation(s) for emergency.
+- [MedNode AI Health API](https://apis.io/apis/mednode-in/mednode-in-health-api/) — The Health API from MedNode AI — 2 operation(s) for health.
+- [MedNode AI Health Summary API](https://apis.io/apis/mednode-in/mednode-in-health-summary-api/) — The Health Summary API from MedNode AI — 1 operation(s) for health summary.
+- [MedNode AI History API](https://apis.io/apis/mednode-in/mednode-in-history-api/) — The History API from MedNode AI — 3 operation(s) for history.
+- [MedNode AI Insights API](https://apis.io/apis/mednode-in/mednode-in-insights-api/) — The Insights API from MedNode AI — 1 operation(s) for insights.
+- [MedNode AI Kyc API](https://apis.io/apis/mednode-in/mednode-in-kyc-api/) — The Kyc API from MedNode AI — 3 operation(s) for kyc.
+- [MedNode AI Lab API](https://apis.io/apis/mednode-in/mednode-in-lab-api/) — The Lab API from MedNode AI — 19 operation(s) for lab.
+- [MedNode AI Lab Tests API](https://apis.io/apis/mednode-in/mednode-in-lab-tests-api/) — The Lab Tests API from MedNode AI — 1 operation(s) for lab tests.
+- [MedNode AI Labs API](https://apis.io/apis/mednode-in/mednode-in-labs-api/) — The Labs API from MedNode AI — 2 operation(s) for labs.
+- [MedNode AI Lang API](https://apis.io/apis/mednode-in/mednode-in-lang-api/) — The Lang API from MedNode AI — 6 operation(s) for lang.
+- [MedNode AI Me API](https://apis.io/apis/mednode-in/mednode-in-me-api/) — The Me API from MedNode AI — 6 operation(s) for me.
+- [MedNode AI MedNode AI API](https://apis.io/apis/mednode-in/mednode-in-mednode-ai-api-api/) — The MedNode AI API API from MedNode AI — 1 operation(s) for mednode ai api.
+- [MedNode AI Metrics API](https://apis.io/apis/mednode-in/mednode-in-metrics-api/) — The Metrics API from MedNode AI — 1 operation(s) for metrics.
+- [MedNode AI Notifications API](https://apis.io/apis/mednode-in/mednode-in-notifications-api/) — The Notifications API from MedNode AI — 4 operation(s) for notifications.
+- [MedNode AI Patient API](https://apis.io/apis/mednode-in/mednode-in-patient-api/) — The Patient API from MedNode AI — 46 operation(s) for patient.
+- [MedNode AI Patients API](https://apis.io/apis/mednode-in/mednode-in-patients-api/) — The Patients API from MedNode AI — 2 operation(s) for patients.
+- [MedNode AI Profile API](https://apis.io/apis/mednode-in/mednode-in-profile-api/) — The Profile API from MedNode AI — 1 operation(s) for profile.
+- [MedNode AI Providers API](https://apis.io/apis/mednode-in/mednode-in-providers-api/) — The Providers API from MedNode AI — 1 operation(s) for providers.
+- [MedNode AI Public API](https://apis.io/apis/mednode-in/mednode-in-public-api/) — The Public API from MedNode AI — 3 operation(s) for public.
+- [MedNode AI Queue API](https://apis.io/apis/mednode-in/mednode-in-queue-api/) — The Queue API from MedNode AI — 1 operation(s) for queue.
+- [MedNode AI Rag API](https://apis.io/apis/mednode-in/mednode-in-rag-api/) — The Rag API from MedNode AI — 2 operation(s) for rag.
+- [MedNode AI Razorpay API](https://apis.io/apis/mednode-in/mednode-in-razorpay-api/) — The Razorpay API from MedNode AI — 1 operation(s) for razorpay.
+- [MedNode AI Records API](https://apis.io/apis/mednode-in/mednode-in-records-api/) — The Records API from MedNode AI — 3 operation(s) for records.
+- [MedNode AI Shared API](https://apis.io/apis/mednode-in/mednode-in-shared-api/) — The Shared API from MedNode AI — 7 operation(s) for shared.
+- [MedNode AI Shares API](https://apis.io/apis/mednode-in/mednode-in-shares-api/) — The Shares API from MedNode AI — 2 operation(s) for shares.
+- [MedNode AI Subscription API](https://apis.io/apis/mednode-in/mednode-in-subscription-api/) — The Subscription API from MedNode AI — 8 operation(s) for subscription.
+- [MedNode AI Support API](https://apis.io/apis/mednode-in/mednode-in-support-api/) — The Support API from MedNode AI — 1 operation(s) for support.
+- [MedNode AI Upload API](https://apis.io/apis/mednode-in/mednode-in-upload-api/) — The Upload API from MedNode AI — 1 operation(s) for upload.
+- [MedNode AI Vault API](https://apis.io/apis/mednode-in/mednode-in-vault-api/) — The Vault API from MedNode AI — 7 operation(s) for vault.
+- [MedNode AI Webhook API](https://apis.io/apis/mednode-in/mednode-in-webhook-api/) — The Webhook API from MedNode AI — 2 operation(s) for webhook.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [MedNode AI Agentic Access](https://apis.io/agentic-access/mednode-in/mednode-in-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BookedAppointmentResponse](https://apis.io/schemas/mednode-in/mednode-in-booked-appointment-response/)
+- [DoctorProfileResponse](https://apis.io/schemas/mednode-in/mednode-in-doctor-profile-response/)
+- [InvoiceResponse](https://apis.io/schemas/mednode-in/mednode-in-invoice-response/)
+- [PatientBookedAppointmentResponse](https://apis.io/schemas/mednode-in/mednode-in-patient-booked-appointment-response/)
+- [PrescriptionFullUpdateRequest](https://apis.io/schemas/mednode-in/mednode-in-prescription-full-update-request/)
+- [PrescriptionResponse](https://apis.io/schemas/mednode-in/mednode-in-prescription-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mednode In Context](https://apis.io/jsonld/mednode-in/mednode-in-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MedNode AI API Rules](https://apis.io/rules/mednode-in/mednode-in-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MedNode AI Authentication](https://apis.io/security/mednode-in/mednode-in-authentication/)
+- [MedNode AI Domain Security](https://apis.io/security/mednode-in/mednode-in-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [MedNode AI Plans Pricing](https://apis.io/plans/mednode-in/mednode-in-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mednode.in/)
+- [API reference](https://api.mednode.in/docs)
+- [Pricing](https://mednode.in/pricing)
+- [Blog](https://mednode.in/blog)
+- [Terms of service](https://mednode.in/terms)
+- [Privacy policy](https://mednode.in/privacy)
+
+## API Evangelist rating
+
+**Kin Score 47.5** — developing · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 54.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 27.9 |
+| Access clarity | 59.1 |
+
+**Agent readiness 37.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 14.0** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mednode-in/](https://apis.io/providers/mednode-in/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MedNode AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mednode-in/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
